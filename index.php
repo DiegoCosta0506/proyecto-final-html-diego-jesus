@@ -496,13 +496,13 @@
     <section class="hero">
         <div class="hero-text">
             <h1>Domina la pista con <span>Smash Padel</span></h1>
-            <p>Equipamiento de pádel diseñado para jugadores que buscan potencia, control y estilo. Raquetas, pelotas y accesorios listos para tu próximo partido.</p>
-            <p class="hero-tag">Colección 2025 · Edición limitada · Envíos a todo el país</p>
+            <p>Equipamiento de padel diseñado para jugadores que buscan potencia, control y estilo. Raquetas, pelotas y accesorios listos para tu proximo partido.</p>
+            <p class="hero-tag">Coleccion 2025 · Edicion limitada · Envíos a todo el pais</p>
         </div>
         <div class="hero-side">
             <div class="hero-side-top">
                 <div class="hero-badge">Nuevo</div>
-                <p>Raqueta Smash Thunder Pro con núcleo de carbono y balance ofensivo. Ideal para jugadores que quieren más velocidad en cada golpe.</p>
+                <p>Raqueta Smash Thunder Pro con nucleo de carbono y balance ofensivo. Ideal para jugadores que quieren mas velocidad en cada golpe.</p>
             
     </section>
 
@@ -559,7 +559,7 @@
                     <img src="https://justpadel.com/cdn/shop/files/427989824_781506747343327_5435887916175475402_n.jpg?v=1707909634&width=896" alt="Raqueta Control Pro" style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
                 </div>
                 <h3>Raqueta Control Pro</h3>
-                <p>Mayor control y precisión para jugadores que dominan la estrategia.</p>
+                <p>Mayor control y precision para jugadores que dominan la estrategia.</p>
                 <div class="product-meta">
                     <span class="price">$139.99</span>
                     <span class="badge badge-new">Nuevo</span>
@@ -576,7 +576,7 @@
                     <img src="https://cdn.almacen.do/2024/08/Pelotas-de-Padel-Wilson-Padel-Premier-Speed-Raw-600x583.jpg" alt="Pelotas Smash Pack x3" style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
                 </div>
                 <h3>Pelotas Smash Pack x3</h3>
-                <p>Pelotas de alta visibilidad con presión duradera, perfectas para torneos.</p>
+                <p>Pelotas de alta visibilidad con presion duradera, perfectas para torneos.</p>
                 <div class="product-meta">
                     <span class="price">$12.50</span>
                     <span class="badge badge-new">Pack</span>
@@ -621,7 +621,7 @@
                         <th>Cant.</th>
                         <th>Precio</th>
                         <th>Subtotal</th>
-                        <th>Acción</th>
+                        <th>Accion</th>
                     </tr>
                 </thead>
                 <tbody id="cart-body">
@@ -632,7 +632,7 @@
                 <strong id="cart-total">$0.00</strong>
             </div>
             <div class="cart-note">
-                Este carrito es solo de prueba en el navegador. Al recargar la página se limpia.
+                Este carrito es solo de prueba en el navegador. Al recargar la pagina se limpia.
             </div>
             <div style="margin-top:8px;">
                 <button class="btn btn-primary" onclick="procesarPago()">Procesar pago</button>
@@ -642,13 +642,13 @@
 
     <section>
         <div class="section-title">
-            <h2>Por qué Smash Padel</h2>
+            <h2>Por que Smash Padel</h2>
             <span>Ventajas para tus clientes</span>
         </div>
         <div class="benefits">
             <div class="benefit">
-                <h3>Envíos rápidos</h3>
-                <p>Entregas en 24-48h para que no esperes tu próximo partido.</p>
+                <h3>Envíos rapidos</h3>
+                <p>Entregas en 24-48h para que no esperes tu proximo partido.</p>
             </div>
             <div class="benefit">
                 <h3>Materiales premium</h3>
@@ -656,7 +656,7 @@
             </div>
             <div class="benefit">
                 <h3>Soporte al jugador</h3>
-                <p>Asesoría para ayudarte a elegir la raqueta que mejor se adapte a tu estilo.</p>
+                <p>Asesoria para ayudarte a elegir la raqueta que mejor se adapte a tu estilo.</p>
             </div>
         </div>
     </section>
@@ -698,7 +698,7 @@
                     Compras rápidas y seguras<br>
                     Seguimiento de pedidos en tiempo real<br>
                     Acceso a descuentos especiales<br>
-                    Cuenta protegida con autenticación
+                    Cuenta protegida con autenticacion
                 </p>
             </div>
         </div>
@@ -707,7 +707,7 @@
 </main>
 
 <footer>
-    Smash Padel Shop - Proyecto académico de e-commerce
+    Smash Padel Shop - Proyecto academico de e-commerce
 </footer>
 
 <script>
@@ -762,7 +762,7 @@
 
     function procesarPago() {
         if (cart.length === 0) {
-            alert("Tu carrito está vacío.");
+            alert("Tu carrito esta vacio.");
             return;
         }
 
@@ -804,7 +804,7 @@
         const pass = document.getElementById('login-password').value;
 
         if (!name || !email || !pass) {
-            alert("Por favor completa todos los campos para iniciar sesión.");
+            alert("Por favor completa todos los campos para iniciar sesion.");
             return;
         }
 
